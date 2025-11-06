@@ -64,7 +64,9 @@ Transformo dados em decisões. Tenho experiência no desenvolvimento de relatór
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/heckson)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/heckson)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5531993732336)
+
 ✉️ hecksongomes@omahadash.onmicrosoft.com
 
 ---
